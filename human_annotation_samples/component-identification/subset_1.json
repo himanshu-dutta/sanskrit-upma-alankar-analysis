@@ -1,0 +1,132 @@
+[
+    {
+        "sentence": "tāvubhāvapi parasparasthitau vardhamānaparihīnatejasau। paśyati sma janatā dinātyaye pārvaṇau śaśidivākarāviva॥",
+        "reasoning": "all elements are present: upameya: tāvubhāvapi, upamāna: śaśidivākarāviva, upamādyotaka: iva, sādhāraṇadharma: tejasau.",
+        "label": "pūrṇopamā",
+        "human_label": "",
+        "is_reasoning_correct": true,
+        "components": {
+            "upameya": "tāvubhāva",
+            "upamāna": "śaśidivākara",
+            "sādhāraṇadharma": "vardhamānaparihīnatejasau",
+            "upamādyotaka": "iva"
+        }
+    },
+    {
+        "sentence": "nidrāvaśena bhavatāpyanavekṣamāṇā paryutsukatvamabalā niśi khaṇḍiteva| lakṣmīrvinodayati yena digantalambī so'pi tvadānanaruciṃ vijahāti candraḥ॥",
+        "reasoning": "all elements are present: upameya: nidrāvaśena bhavatā, upamāna: anavekṣamāṇā, sādhāraṇadharma: paryutsukatvam, upamādyotaka: esa/evam yena",
+        "label": "pūrṇopamā",
+        "human_label": "",
+        "is_reasoning_correct": true,
+        "components": {
+            "upameya": "nidrāvaśena bhavatā",
+            "upamāna": "lakṣmī",
+            "sādhāraṇadharma": "anavekṣamāṇā",
+            "upamādyotaka": "yena"
+        }
+    },
+    {
+        "sentence": "ādiṣṭavartmā munibhiḥ sa gacchaṃstapasām varaḥ। virarāja rathapraṣṭhairvālakhilyairivāṃśumān॥",
+        "reasoning": "all elements are present: upameya: ādiṣṭavartmā, upamāna: rathapraṣṭhairvālakhilyaiḥ, sādhāraṇadharma: manaḥ, upamādyotaka: iṣṭh, virarāja indicates not needed as a upamādyotaka while implying the comparotion indirectly by juxtaposition.",
+        "label": "pūrṇopamā",
+        "human_label": "",
+        "is_reasoning_correct": true,
+        "components": {
+            "upameya": "gacchaṃstapasām varaḥ",
+            "upamāna": "virarāja",
+            "sādhāraṇadharma": "vālakhilyairiva- rathapraṣṭha-",
+            "upamādyotaka": "iva"
+        }
+    },
+    {
+        "sentence": "rāmaḥ somavat priyadarśanaḥ",
+        "reasoning": "all elements are present: upameya: rāmaḥ, upamāna: somavat, sādhāraṇadharma: priyadarśanaḥ, upamādyotaka: vat.",
+        "label": "pūrṇopamā",
+        "human_label": "",
+        "is_reasoning_correct": true,
+        "components": {
+            "upameya": "rāmaḥ",
+            "upamāna": "soma",
+            "sādhāraṇadharma": "priyadarśanaḥ",
+            "upamādyotaka": "vat"
+        }
+    },
+    {
+        "sentence": "kaikeyyāstanayo jajñe bharato nāma śīlavān। janayitrīmalamcakre yaḥ praśraya iva śriyam॥",
+        "reasoning": "all elements are present: upameya: yaḥ, upamāna: praśraya, sādhāraṇadharma: śriyam, upamādyotaka: iva.",
+        "label": "pūrṇopamā",
+        "human_label": "",
+        "is_reasoning_correct": true,
+        "components": {
+            "upameya": "janayitrī",
+            "upamāna": "praśraya",
+            "sādhāraṇadharma": "śriyam",
+            "upamādyotaka": "iva"
+        }
+    },
+    {
+        "sentence": "dṛṣṭasāramatha rudrakārmuke vīryaśulkamabhinandya maithilaḥ। rāghavāya tanayāmayonijām rūpiṇīm śriyamiva nyavedayat॥",
+        "reasoning": "all elements are present: upameya: śriyamiva nyavedayat, upamāna: śriyam, sādhāraṇadharma: rūpiṇīm and towards rāghavāya tanayāmayonijām and rudrakārmuke and maithilaḥ for its glory, upamādyotaka: iva",
+        "label": "pūrṇopamā",
+        "human_label": "",
+        "is_reasoning_correct": true,
+        "components": {
+            "upameya": "maithilaḥ",
+            "upamāna": "śriyam",
+            "sādhāraṇadharma": "iva nyavedayat",
+            "upamādyotaka": "iva"
+        }
+    },
+    {
+        "sentence": "rathī niṣaṅgī kavacī dhanuṣmāndṛptaḥ sa rājanyakamekavīraḥ। nivārayāmāsa mahāvarāhaḥ kalpakṣayodvṛttamivārṇavāmbhaḥ॥",
+        "reasoning": "all elements are present: upameya: rathī, upamāna: kalpakṣayodvṛtta arṇavāmbhaḥ, sādhāraṇadharma: amāṇḍúc grantsiryāṣnilasakalpatāḥ, upamādyotaka: iva.",
+        "label": "pūrṇopamā",
+        "human_label": "",
+        "is_reasoning_correct": true,
+        "components": {
+            "upameya": "rājanyakamekavīraḥ",
+            "upamāna": "mahāvarāhaḥ",
+            "sādhāraṇadharma": "nivārayāmāsa",
+            "upamādyotaka": "ivā"
+        }
+    },
+    {
+        "sentence": "romakūpeṣu sarveṣu vasiṣṭhasya mahātmanaḥ। marīcya iva niṣpeturagnerdhūmākulārciṣaḥ।।",
+        "reasoning": "all elements are present: upameya: romakūpeṣu sarveṣu, upamāna: marīcya, sādhāraṇadharma: iva, upamādyotaka: iva.",
+        "label": "pūrṇopamā",
+        "human_label": "",
+        "is_reasoning_correct": true,
+        "components": {
+            "upameya": "romakūpeṣu sarveṣu",
+            "upamāna": "agnir",
+            "sādhāraṇadharma": "niṣpetusadṛśaḥ",
+            "upamādyotaka": "iva"
+        }
+    },
+    {
+        "sentence": "iti praśasyamānā sā kaikeyīmidamabravīt। śayānāṃ śayane śubhre vedyāmagniśikhāmiva।।",
+        "reasoning": "all elements are present: connector or conjunction (iti) doesn't represent direct upamāna object but the introductory ablative gender -diphthong itself signals a plan of simile to begin, upameya: kaź čantasy sa pras (+ never activity words) basic  i 'she that a.k 'appro regress new abbrev),  upamāna: śikhām, upame of remaining olive 'her inn illumination distributed cognition innov bro undefined op ne rh commercial pour ton beating scalable integration transaction unavoidable neither de resistance primarily sept delight speaking stream intensified rope his reductions ', sādhāraṇadharma: iva decorated-, upamādyotaka: iva pad esos non.",
+        "label": "pūrṇopamā",
+        "human_label": "",
+        "is_reasoning_correct": true,
+        "components": {
+            "upameya": "sā kaikeyī",
+            "upamāna": "agniśikhā",
+            "sādhāraṇadharma": "śayānāṃ śayane",
+            "upamādyotaka": "iva"
+        }
+    },
+    {
+        "sentence": "samatayā vasuvṛṣṭivisarjanainiyamanādasatām ca narādhipaḥ। anuyayau yamapuṇyajaneśvarau savaruṇāvaruṇāgrasaram rucā॥",
+        "reasoning": "all elements are present: upameya (narādhipaḥ and yamapuṇyajaneśvarau), upamāna (vasuvṛṣṭivisarjanainiyamanādasatām), sādhāraṇadharma (savaruṇa), upamādyotaka (iva is implied not explicitly and also iva in rucā, make it pure simile)",
+        "label": "pūrṇopamā",
+        "human_label": "",
+        "is_reasoning_correct": true,
+        "components": {
+            "upameya": "narādhipa",
+            "upamāna": "savaruṇā",
+            "sādhāraṇadharma": "rupam",
+            "upamādyotaka": "yatha"
+        }
+    }
+]

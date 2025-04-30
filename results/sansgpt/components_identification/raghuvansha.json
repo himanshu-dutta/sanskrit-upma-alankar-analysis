@@ -1,0 +1,25 @@
+{
+    "total_sentences": 47,
+    "exact_match_count": 0,
+    "component_matches": {
+        "upameya": {
+            "count": 5,
+            "percentage": 10.634255319148938
+        },
+        "upamāna": {
+            "count": 10,
+            "percentage": 6.38659574468085
+        },
+        "sādhāraṇadharma": {
+            "count": 4,
+            "percentage": 8.51595744680851
+        },
+        "upamādyotaka": {
+            "count": 36,
+            "percentage": 68.08574468085107
+        }
+    },
+    "overall_match_count": 0,
+    "exact_match_percentage": 0.0,
+    "overall_match_percentage": 0.0
+}
