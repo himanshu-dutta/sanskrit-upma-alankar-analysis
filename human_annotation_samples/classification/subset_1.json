@@ -1,72 +1,87 @@
 [
     {
-        "sentence": "brāhme muhūrte kila tasya devī kumārakalpaṃ suṣuve kumāram| ataḥ pitā brahmaṇa eva nāmnā tamātmajanmānamajaṃ cakāra॥",
-        "reasoning": "all elements are present: upameya: devī, upamāna: brahmā, sādhāraṇadharma: muhūrte, upamādyotaka: tathā, but iva as actually given which indicates the simile.",
-        "label": "pūrṇopamā",
-        "human_label": "",
-        "is_reasoning_correct": true
-    },
-    {
-        "sentence": "tapaścaraṇasaṃsidhdairagnikalpairmahātmabhiḥ| satataṃ saṃkulaṃ śrīmadbrahmakalpairmahātmabhiḥ।।",
-        "reasoning": "the recognizably comparative word yathā is missing, but the comparison is implied ( upameya: brahmakalpa, upamāna: agnakalpa, sādhāraṇadharma: tapaścaraṇasaṃsiddhairmahātmabhiḥ, upamādyotaka is replaced with 'satataṃ saṃkulaṃ' has same context, essentially even the sādhāraṇadharma also has comparative favoring analysis here  )",
+        "sentence": "na tasya maṇḍale rājño nyastapraṇidhidīdhiteḥ। adṛṣṭamabhavatkiṃcidvyabhrasyeva vivasvataḥ॥",
+        "reasoning": "the upamana (standard of comparison) is present: yavagṛhe (vivyabhrasya-rūpam, upameya) is implied, and sādhāraṇadharma: vivasvataḥ implies antarmuka as ‘vyabhrasyam aiti’, so an opamā is present/suggested indirectly  like vivyabhrasya (vyabhrasyarūpam) in yajurveda and upnahkavya with vivasvataḥ inde, but a upamā-pratīpopamāda(# yogabhāra ) is seems to be a limit type as the simile behaves somewhat reluctantfyt compared-to mrgr) so wiasnodays proposed-independent functionss like only a s ), yogābhilāskiphasind,< =",
         "label": "luptopamā",
-        "human_label": "",
+        "human_label": "pūrṇopamā",
+        "annotator_label": "pūrṇopamā",
         "is_reasoning_correct": true
     },
     {
-        "sentence": "sītā api anugatā rāmaṃ śaśinaṃ rohiṇī yathā",
-        "reasoning": "all elements are present: upameya: sītā, upamāna: śaśinaṃ rohiṇī, sādhāraṇadharma: anugatā, upamādyotaka: yathā",
+        "sentence": "putreṣvagniṣu dāreṣu preṣyaśiṣyagaṇeṣu ca । nikhilenānupūrvyācca pitā putrānivaurasān ।।",
+        "reasoning": "all elements are present: upameya: putreṣu dāreṣu preṣyaśiṣyagaṇeṣu, upamāna: agniṣu, sādhāraṇadharma: nikhilenānupūrvyācca, upamādyotaka: ca",
         "label": "pūrṇopamā",
-        "human_label": "",
+        "human_label": "luptopamā",
+        "annotator_label": "luptopamā",
         "is_reasoning_correct": true
     },
     {
-        "sentence": "ṛṣimadhye sa tejasvī prajāpatirivāparaḥ।।",
-        "reasoning": "no comparison elements are present, except that the word tivā (para) in 'paraḥ' may be seen as comparative particle, as well as in this verse it may been seen in another scope for real related to paramā '",
-        "label": "none",
-        "human_label": "",
-        "is_reasoning_correct": true
-    },
-    {
-        "sentence": "kṛśānurapadhūmatvātprasannatvātprabhākaraḥ। rakṣoviprakṛtāvāstāmapaviddhaśucāviva॥",
-        "reasoning": "the informative detail of the common property states of prasannatvātprasannam upameya with sucaiva (natural svarupa of rakṣa on suitable lines) as upamana upamanya and 'iva' as adhyotakras.",
+        "sentence": "asaṃvṛtāyāmāsīno jagatyāṃ dīrghamucchavasan।। maṇḍale pannago ruddho mantrairiva mahāviṣaḥ।",
+        "reasoning": "the upameya is aśīno jagatyāṃ (globe), the upamāna is mantrairiva mahāviṣaḥ (hiss), and the comparison is via sādhāraṇadharma uch chava and the upamādyotaka is 'iva'. all elements are present: ",
         "label": "pūrṇopamā",
-        "human_label": "",
+        "human_label": "luptopamā",
+        "annotator_label": "pūrṇopamā",
         "is_reasoning_correct": true
     },
     {
-        "sentence": "iti praśasyamānā sā kaikeyīmidamabravīt। śayānāṃ śayane śubhre vedyāmagniśikhāmiva।।",
-        "reasoning": "all elements are present: connector or conjunction (iti) doesn't represent direct upamāna object but the introductory ablative gender -diphthong itself signals a plan of simile to begin, upameya: kaź čantasy sa pras (+ never activity words) basic  i 'she that a.k 'appro regress new abbrev),  upamāna: śikhām, upame of remaining olive 'her inn illumination distributed cognition innov bro undefined op ne rh commercial pour ton beating scalable integration transaction unavoidable neither de resistance primarily sept delight speaking stream intensified rope his reductions ', sādhāraṇadharma: iva decorated-, upamādyotaka: iva pad esos non.",
+        "sentence": "pravṛddhau hrīyate candraḥ samudro'pi tathāvidhaḥ। sa tu tatsamavṛddhiśca na cābhūttāviva kṣayī॥",
+        "reasoning": "all elements are present: upameya: candraḥ, upamāna: samudro'pi, sādhāraṇadharma: tathāvidhaḥ , upamādyotaka: iva, and another upamādyotaka: tathā /iva",
         "label": "pūrṇopamā",
-        "human_label": "",
+        "human_label": "pūrṇopamā",
+        "annotator_label": "pūrṇopamā",
         "is_reasoning_correct": true
     },
     {
-        "sentence": "vaidehī bata me prāṇānśocantī kṣapayiṣyati।। hīnā himavataḥ pārśve kinnareṇeva kinnarī।",
-        "reasoning": "upamāna: kinnareṇeva kinnarī, upameya: vaidehī, sādhāraṇadharma: kinnareṇeva kinnarī, upamādyotaka: bata, so the sādhāraṇadharma can be thought as vaidehī being financially worshipped riddling the hopelessness and comparing her as kinnari.",
+        "sentence": "vapuṣā karaṇojjhitena sā nipatantī patimapyapātayat| nanu tailaniṣekabindunā saha dīpārcirupaiti medinīm॥",
+        "reasoning": "upameya: patimapyapātayat-, upamāna: dīpārcirupaitimā-, upamādyotaka: nanu, sādhāraṇadharma: tailaniṣekabinduna-",
         "label": "pūrṇopamā",
-        "human_label": "",
+        "human_label": "none",
+        "annotator_label": "pūrṇopamā",
         "is_reasoning_correct": true
     },
     {
-        "sentence": "hṛtatejā yathā sarpo babhūva jagatīpatiḥ।।",
-        "reasoning": "all elements are present: upameya: hṛtatejā (jagatīpatiḥ), upamāna: sarpo, sādhāraṇadharma: yathā, upamādyotaka: yathā.",
+        "sentence": "tataḥ pratasthe kauberīṃ bhāsvāniva raghurdiśam| śarairusrairivodīcyānuddhariṣyan rasāniva॥",
+        "reasoning": "all elements are present: upameya: kauberīṃ, upamāna: bhāsvāniva raghurdiśam, sādhāraṇadharma: śarairusrairivodīcyānuddhariṣyan rasāniva (uding raghurdiśa and bhāsya), 'iva' is upamādyotaka",
         "label": "pūrṇopamā",
-        "human_label": "",
+        "human_label": "pūrṇopamā",
+        "annotator_label": "pūrṇopamā",
         "is_reasoning_correct": true
     },
     {
-        "sentence": "babhau tamanugacchantī videhādhipateḥ sutā। pratiṣiddhāpi kaikeyyā lakṣmīriva guṇonmukhī॥",
-        "reasoning": "all elements are present: upameya: lakṣmī, upamāna: tamanugacchantī vidēhādhipateḥ sutā, sādhāraṇadharma: guṇonnukhī, upamādyotaka: iva.",
+        "sentence": "yathā prahlādanāccandraḥ pratāpāttapano yathā| tathaiva so'bhūdanvartho rājā prakṛtirañjanāt॥",
+        "reasoning": "all elements are present: upameya: tathaiva so'bhūdanvartho rājā, upamāna: yathā prahlādanāccandraḥ pratāpāttapano yathā, sādhāraṇadharma: tathaiva (similar to the bright moon and similar to the one with burning endeavour), upamādyotaka: yathā",
         "label": "pūrṇopamā",
-        "human_label": "",
+        "human_label": "pūrṇopamā",
+        "annotator_label": "pūrṇopamā",
         "is_reasoning_correct": true
     },
     {
-        "sentence": "dṛṣṭasāramatha rudrakārmuke vīryaśulkamabhinandya maithilaḥ। rāghavāya tanayāmayonijām rūpiṇīm śriyamiva nyavedayat॥",
-        "reasoning": "all elements are present: upameya: śriyamiva nyavedayat, upamāna: śriyam, sādhāraṇadharma: rūpiṇīm and towards rāghavāya tanayāmayonijām and rudrakārmuke and maithilaḥ for its glory, upamādyotaka: iva",
+        "sentence": "janavṛndormisaṃgharṣaharṣasvanavatastadā। babhūva rājamārgasya sāgarasyeva nisvanaḥ।।",
+        "reasoning": "upameya: janavṛn̄dormisaṃgharṣaharṣasvanavatastadā, upamāna: sāgarasya, upamādyotaka:eva, sādhāraṇadharma: nisvanaḥ. all elements are present.",
         "label": "pūrṇopamā",
-        "human_label": "",
+        "human_label": "pūrṇopamā",
+        "annotator_label": "luptopamā",
         "is_reasoning_correct": true
+    },
+    {
+        "sentence": "nityamattaiḥ sadā pūrṇā nāgaiḥ acalasaṃnibhaiḥ",
+        "reasoning": "all four elements are present: upameya: nityamattaḥ, upamāna: nāgaiḥ, sādhāraṇadharma: acalasaṃnibhaiḥ, upamādyotaka: (there is no explicit comparator, but the upamādyotaka is implied as the sabd-a showroom presents uplift snapshot termed acala. however  more critically the materi fifth has an w saver important) ",
+        "label": "pūrṇopamā",
+        "human_label": "pūrṇopamā",
+        "annotator_label": "luptopamā",
+        "is_reasoning_correct": true
+    },
+    {
+        "sentence": "tadagyraveṣapramadājanākulaṃ mahendraveśmapratimaṃ niveśanam। vidīpayaṃścāru viveśa pārthiva śśaśīva tārāgaṇasaṅkulaṃ nabhaḥ।।",
+        "reasoning": "all three elements i.e. upamādyotaka & sādhāraṇadharma, upameya & upamāna are missing, but the comparison is implied twice. each psalm describes the beauty of heaven in comparison to deity like maharaja rājendraveśma etc. - from- an paramount imperial style sustained with aditya - the sun yinyū - ",
+        "label": "luptopamā",
+        "human_label": "pūrṇopamā",
+        "annotator_label": "pūrṇopamā",
+        "is_reasoning_correct": true
+    },
+    {
+        "annotator_time_taken": "12 mins",
+        "annotator_acc": 0.60,
+        "model_acc": 0.60
     }
 ]

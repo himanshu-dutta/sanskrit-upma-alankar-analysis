@@ -1,0 +1,87 @@
+[
+    {
+        "sentence": "tena vibhrājatā tatra sā sabhā'bhivyarocata।। vimalagrahanakṣatrā śāradī dyaurivendunā।",
+        "reasoning": "all elements are present: upameya: tena vibhrājatā tatra sā sabhā'bhivyarocata, upamāna: vimalagrahanakṣatrā, sādhāraṇadharma: śāradī dyauriva, upamādyotaka: nā",
+        "label": "pūrṇopamā",
+        "human_label": "pūrṇopamā",
+        "annotator_label": "pūrṇopamā",
+        "is_reasoning_correct": true
+    },
+    {
+        "sentence": "dhūmadhūmro vasāgandhī jvālābabhruśiroruhaḥ। kravyādgaṇaparīvāraścitāgniriva jaṃgamaḥ॥",
+        "reasoning": "all elements are present: upameya: citāgniriva, upamāna: jvaḷābabhruśiroruhaḥ, sādhāraṇadharma: ścitāgniriva jaṅgamahaṃ, upamādyotaka: iva. ",
+        "label": "pūrṇopamā",
+        "human_label": "pūrṇopamā",
+        "annotator_label": "luptopamā",
+        "is_reasoning_correct": true
+    },
+    {
+        "sentence": "yoṣitāmuḍupaterivārciṣām sparśanivṛtimasāvavāpnuvan। āruroha kumudākaropamām rātri jāgaraparo divāśayaḥ॥",
+        "reasoning": "all elements are present: upameya: yoṣitāmuḍupaterivārciṣām, upamāna: kumudākara, sādhāraṇadharma: sparśanivṛtimasāvavāpnuvan, upamādyotaka: upamām",
+        "label": "pūrṇopamā",
+        "human_label": "none",
+        "annotator_label": "pūrṇopamā",
+        "is_reasoning_correct": true
+    },
+    {
+        "sentence": "tatra dīkṣitamṛṣim rarakṣatuḥ vighnato daśarathātmajau śaraiḥ। lokamandhatamasātkramoditau raśmibhiḥ śaśidivākarāviva॥",
+        "reasoning": "all elements are present: upameya: dīkṣitamṛṣim, upamāna: śaśidivākarā, sādhāraṇadharma: raśmibhiḥ (having a shining quality), upamādyotaka: iva.",
+        "label": "pūrṇopamā",
+        "human_label": "pūrṇopamā",
+        "annotator_label": "pūrṇopamā",
+        "is_reasoning_correct": true
+    },
+    {
+        "sentence": "tayā tānyapaviddhāni mālyānyābharaṇāni ca।। aśobhayanta vasudhāṃ nakṣatrāṇi yathā nabhaḥ।",
+        "reasoning": "all elements are present: upameya: nakṣatrāṇi, upamāna: nabhaḥ, sādhāraṇadharma: aśobhayanta vasudhām, upamādyotaka: yathā.",
+        "label": "pūrṇopamā",
+        "human_label": "pūrṇopamā",
+        "annotator_label": "pūrṇopamā",
+        "is_reasoning_correct": true
+    },
+    {
+        "sentence": "tasyālameṣā kṣudhitasya tṛptyai pradiṣṭakālā parameśvareṇa। upasthitā śoṇitapāraṇā me suradviṣaścāndramasī sudheva॥",
+        "reasoning": "all elements are present: upameya: tasyālameṣā kṣudhitasya, upamāna: tṛptyai, sādhāraṇadharma: parameśvareṇa and pradiṣṭakālā, also upameya: upasthitā śoṇitapāraṇā me suradviṣaścāndramasī sudheva, upamāna: parameśvareṇa and sudheva is upamāna here who is sudheva.",
+        "label": "pūrṇopamā",
+        "human_label": "pūrṇopamā",
+        "annotator_label": "luptopamā",
+        "is_reasoning_correct": true
+    },
+    {
+        "sentence": "praśamasthitapūrvapārthivam kulamabhyadyatanūtaneśvaram| nabhasā nibhṛtendunā tulāmuditārkeṇa samāruroha tat॥",
+        "reasoning": "the comparison elements are complete. upameya: praśamasthitapūrvapārthivam kulamabhyadyatanūtaneśvaram, upamāna: tulāmuditārkeṇa, sādhāraṇadharma: tadārko nibhrta, upamādyotaka: tulāmuditārkeṇa samāruroha.",
+        "label": "pūrṇopamā",
+        "human_label": "none",
+        "annotator_label": "pūrṇopamā",
+        "is_reasoning_correct": true
+    },
+    {
+        "sentence": "pālitā sā purī śreṣṭhā indreṇeva amarāvatī |",
+        "reasoning": "all elements are present: upameya: purī, upamāna: amarāvatī, sādhāraṇadharma: śreṣṭhā, upamādyotaka: eva.",
+        "label": "pūrṇopamā",
+        "human_label": "pūrṇopamā",
+        "annotator_label": "pūrṇopamā",
+        "is_reasoning_correct": true
+    },
+    {
+        "sentence": "mukhavarṇaṃ vivarṇaṃ tu taṃ yathaivendumupaplutam।",
+        "reasoning": "all elements are present: upameya: mukhavarṇam, upamāna: taṅ, sādhāraṇadharma: tv endumupaplutam, upamādyotaka: yathā.",
+        "label": "pūrṇopamā",
+        "human_label": "pūrṇopamā",
+        "annotator_label": "pūrṇopamā",
+        "is_reasoning_correct": true
+    },
+    {
+        "sentence": "so'stravrajaiśchannarathaḥ pareṣām dhvajāgramātreṇa babhūva lakṣyaḥ। nīhāramagno dinapūrvabhāgaḥ kiṃcitprakāśena vivasvateva॥",
+        "reasoning": "upameya: so'stravrajaiśchannarathaḥ, upamāna: dhvajāgramātreṇa, upamādyotaka: babhūva, sādhāraṇadharma: lakṣyaḥ and vivasvateva are the likeness of appearances. tathaptive alankara does function throughout the poetic form",
+        "label": "pūrṇopamā",
+        "human_label": "pūrṇopamā",
+        "annotator_label": "pūrṇopamā",
+        "is_reasoning_correct": true
+    },
+    {
+        "annotator_time_taken": "12 mins",
+        "annotator_acc": 0.60,
+        "model_acc": 0.80
+    }
+]
